@@ -1,0 +1,206 @@
+Time,LogicalAddress,Access,Status,PhysicalAddress,Latency
+1,(0,2,1,373),Write,FAULT,Protection Violation: Cannot write to read-only page,5
+2,(0,2,15,695),Write,FAULT,Protection Violation: Cannot write to read-only page,4
+3,(0,1,1,737),Read,OK,737,102
+4,(0,1,8,118),Write,FAULT,Protection Violation: Cannot write to read-only page,3
+5,(0,0,14,418),Read,OK,1418,103
+6,(0,0,10,98),Read,OK,2098,105
+7,(0,0,3,316),Write,OK,316,102
+8,(0,1,11,676),Write,OK,1676,105
+9,(0,1,14,155),Write,FAULT,Protection Violation: Cannot write to read-only page,3
+10,(0,2,7,484),Write,FAULT,Protection Violation: Cannot write to read-only page,5
+11,(0,0,1,397),Write,OK,2397,105
+12,(0,2,4,371),Write,OK,371,103
+13,(0,2,9,464),Write,OK,1464,101
+14,(0,0,7,671),Write,OK,2671,101
+15,(0,1,9,33),Write,OK,33,102
+16,(0,0,10,472),Read,OK,1472,105
+17,(0,0,7,490),Write,OK,2490,5
+18,(0,2,10,741),Read,OK,741,102
+19,(0,1,12,881),Read,OK,1881,102
+20,(0,2,2,241),Write,OK,2241,101
+21,(0,0,14,382),Read,OK,382,101
+22,(0,3,15,394),Write,FAULT,Protection Violation: Cannot write to read-only page,2
+23,(0,0,11,430),Read,OK,1430,104
+24,(0,3,3,835),Write,FAULT,Protection Violation: Cannot write to read-only page,2
+25,(0,1,8,763),Read,OK,2763,104
+26,(0,0,9,747),Write,FAULT,Protection Violation: Cannot write to read-only page,2
+27,(0,3,10,677),Write,OK,677,104
+28,(0,2,8,476),Write,OK,1476,101
+29,(0,1,1,220),Read,OK,2220,104
+30,(0,1,9,134),Write,OK,134,105
+31,(0,1,3,627),Read,OK,1627,103
+32,(0,0,7,255),Write,OK,2255,105
+33,(0,2,13,197),Write,OK,197,105
+34,(0,3,8,754),Write,OK,1754,104
+35,(0,3,4,335),Write,OK,2335,105
+36,(0,3,2,500),Write,OK,500,104
+37,(0,0,15,499),Write,FAULT,Protection Violation: Cannot write to read-only page,1
+38,(0,2,10,587),Read,OK,1587,103
+39,(0,0,2,600),Write,FAULT,Protection Violation: Cannot write to read-only page,4
+40,(0,1,1,16),Write,OK,2016,103
+41,(0,0,9,823),Write,FAULT,Protection Violation: Cannot write to read-only page,3
+42,(0,2,0,350),Write,FAULT,Protection Violation: Cannot write to read-only page,3
+43,(0,1,5,283),Read,OK,283,102
+44,(0,1,4,272),Write,FAULT,Protection Violation: Cannot write to read-only page,3
+45,(0,1,2,269),Write,OK,1269,103
+46,(0,0,13,550),Write,FAULT,Protection Violation: Cannot write to read-only page,5
+47,(0,0,6,194),Write,FAULT,Protection Violation: Cannot write to read-only page,5
+48,(0,2,6,962),Write,FAULT,Protection Violation: Cannot write to read-only page,5
+49,(0,2,15,211),Read,OK,2211,103
+50,(0,1,4,583),Write,FAULT,Protection Violation: Cannot write to read-only page,1
+51,(0,0,8,624),Write,OK,624,105
+52,(0,1,12,193),Write,OK,1193,105
+53,(0,2,4,27),Write,OK,2027,102
+54,(0,2,8,793),Read,OK,793,105
+55,(0,3,15,320),Read,OK,1320,101
+56,(0,3,5,424),Write,FAULT,Protection Violation: Cannot write to read-only page,2
+57,(0,0,4,943),Write,OK,2943,101
+58,(0,0,13,465),Write,FAULT,Protection Violation: Cannot write to read-only page,2
+59,(0,2,12,278),Write,OK,278,103
+60,(0,0,12,747),Write,FAULT,Protection Violation: Cannot write to read-only page,1
+61,(0,0,14,966),Write,OK,1966,101
+62,(0,1,4,481),Read,OK,2481,102
+63,(0,0,9,438),Read,OK,438,103
+64,(0,2,14,310),Write,OK,1310,105
+65,(0,1,11,456),Read,OK,2456,105
+66,(0,2,6,664),Read,OK,664,102
+67,(0,1,6,539),Read,OK,1539,104
+68,(0,0,2,419),Write,FAULT,Protection Violation: Cannot write to read-only page,2
+69,(0,2,8,753),Write,OK,2753,104
+70,(0,1,14,449),Write,FAULT,Protection Violation: Cannot write to read-only page,4
+71,(0,0,13,314),Read,OK,314,105
+72,(0,2,11,748),Write,OK,1748,101
+73,(0,2,2,737),Write,OK,2737,101
+74,(0,3,1,522),Read,OK,522,103
+75,(0,0,5,909),Read,OK,1909,101
+76,(0,1,4,227),Write,OK,2227,105
+77,(0,2,4,692),Write,OK,692,103
+78,(0,2,8,347),Write,OK,1347,105
+79,(0,3,6,457),Write,OK,2457,104
+80,(0,1,2,232),Write,OK,232,102
+81,(0,3,9,628),Write,OK,1628,105
+82,(0,3,7,28),Write,OK,2028,101
+83,(0,2,1,536),Read,OK,536,102
+84,(0,3,1,108),Write,OK,1108,103
+85,(0,2,9,68),Write,OK,2068,105
+86,(0,2,7,615),Write,FAULT,Protection Violation: Cannot write to read-only page,4
+87,(0,2,13,867),Read,OK,867,105
+88,(0,0,15,925),Write,FAULT,Protection Violation: Cannot write to read-only page,3
+89,(0,2,2,633),Write,OK,1633,102
+90,(0,3,5,211),Read,OK,2211,104
+91,(0,2,15,395),Read,OK,395,103
+92,(0,3,3,926),Write,FAULT,Protection Violation: Cannot write to read-only page,4
+93,(0,0,8,196),Read,OK,1196,105
+94,(0,3,5,517),Read,OK,2517,5
+95,(0,1,9,255),Write,OK,255,101
+96,(0,2,2,460),Write,OK,1460,101
+97,(0,3,1,676),Write,OK,2676,103
+98,(0,0,12,851),Write,FAULT,Protection Violation: Cannot write to read-only page,1
+99,(0,0,2,304),Write,FAULT,Protection Violation: Cannot write to read-only page,3
+100,(0,0,15,189),Write,FAULT,Protection Violation: Cannot write to read-only page,2
+101,(0,3,15,435),Read,OK,435,104
+102,(0,1,14,758),Read,OK,1758,104
+103,(0,0,3,527),Read,OK,2527,104
+104,(0,2,12,824),Write,OK,824,101
+105,(0,3,14,878),Write,OK,1878,101
+106,(0,0,3,668),Read,OK,2668,1
+107,(0,0,0,793),Write,OK,793,105
+108,(0,2,11,434),Write,OK,1434,105
+109,(0,0,5,953),Write,OK,2953,105
+110,(0,0,13,763),Write,OK,763,101
+111,(0,2,15,837),Read,OK,1837,102
+112,(0,1,7,364),Write,OK,2364,101
+113,(0,0,7,790),Read,OK,790,101
+114,(0,2,2,492),Read,OK,1492,105
+115,(0,2,10,667),Read,OK,2667,101
+116,(0,2,1,155),Write,OK,155,105
+117,(0,2,8,270),Write,OK,1270,105
+118,(0,1,5,244),Read,OK,2244,105
+119,(0,1,9,532),Read,OK,532,102
+120,(0,3,8,323),Write,OK,1323,104
+121,(0,2,6,734),Write,OK,2734,105
+122,(0,3,7,474),Read,OK,474,102
+123,(0,1,7,366),Read,OK,1366,102
+124,(0,1,15,645),Read,OK,2645,104
+125,(0,1,6,263),Write,OK,263,103
+126,(0,3,0,425),Read,OK,1425,104
+127,(0,0,2,30),Write,FAULT,Protection Violation: Cannot write to read-only page,4
+128,(0,1,2,78),Read,OK,2078,101
+129,(0,0,11,652),Read,OK,652,104
+130,(0,3,13,352),Write,OK,1352,103
+131,(0,0,2,65),Write,FAULT,Protection Violation: Cannot write to read-only page,4
+132,(0,1,3,711),Write,OK,2711,104
+133,(0,3,2,612),Read,OK,612,101
+134,(0,2,5,698),Read,OK,1698,102
+135,(0,2,13,330),Write,OK,2330,104
+136,(0,2,14,252),Write,OK,252,102
+137,(0,2,2,444),Read,OK,1444,103
+138,(0,1,6,285),Read,OK,2285,104
+139,(0,1,11,24),Read,OK,24,103
+140,(0,3,0,397),Write,OK,1397,104
+141,(0,0,11,506),Read,OK,2506,104
+142,(0,0,4,406),Read,OK,406,101
+143,(0,1,13,395),Write,OK,1395,105
+144,(0,3,11,499),Write,OK,2499,101
+145,(0,0,5,198),Read,OK,198,102
+146,(0,3,1,176),Write,OK,1176,102
+147,(0,0,12,236),Write,FAULT,Protection Violation: Cannot write to read-only page,5
+148,(0,2,1,276),Read,OK,2276,102
+149,(0,0,3,194),Write,OK,194,101
+150,(0,1,9,883),Write,OK,1883,104
+151,(0,0,4,938),Write,OK,2938,102
+152,(0,0,12,29),Write,FAULT,Protection Violation: Cannot write to read-only page,5
+153,(0,0,4,897),Write,OK,2897,5
+154,(0,2,6,475),Write,OK,475,105
+155,(0,2,7,513),Read,OK,1513,105
+156,(0,3,4,282),Write,OK,2282,102
+157,(0,1,11,551),Read,OK,551,104
+158,(0,0,13,934),Read,OK,1934,105
+159,(0,1,4,68),Read,OK,2068,102
+160,(0,2,12,797),Write,OK,797,104
+161,(0,2,13,934),Write,OK,1934,103
+162,(0,3,8,796),Write,OK,2796,105
+163,(0,0,11,187),Write,OK,187,103
+164,(0,2,7,345),Read,OK,1345,105
+165,(0,1,3,161),Write,OK,2161,104
+166,(0,2,5,948),Read,OK,948,103
+167,(0,2,3,859),Read,OK,1859,101
+168,(0,3,8,619),Read,OK,2619,103
+169,(0,3,7,625),Write,OK,625,101
+170,(0,0,1,135),Read,OK,1135,101
+171,(0,2,1,537),Write,OK,2537,101
+172,(0,3,8,829),Write,OK,829,101
+173,(0,0,6,825),Read,OK,1825,101
+174,(0,0,4,179),Write,OK,2179,102
+175,(0,0,2,437),Write,FAULT,Protection Violation: Cannot write to read-only page,1
+176,(0,0,5,540),Read,OK,540,103
+177,(0,1,10,565),Read,OK,1565,103
+178,(0,2,2,204),Read,OK,2204,103
+179,(0,1,4,191),Read,OK,191,101
+180,(0,0,0,569),Write,OK,1569,105
+181,(0,0,12,608),Read,OK,2608,101
+182,(0,3,10,972),Read,OK,972,102
+183,(0,1,13,486),Read,OK,1486,101
+184,(0,1,10,65),Read,OK,2065,105
+185,(0,3,13,628),Write,OK,628,103
+186,(0,3,1,330),Read,OK,1330,105
+187,(0,0,10,480),Write,OK,2480,103
+188,(0,2,10,316),Read,OK,316,103
+189,(0,3,8,904),Read,OK,1904,102
+190,(0,0,0,279),Read,OK,2279,105
+191,(0,1,5,781),Read,OK,781,102
+192,(0,1,10,267),Read,OK,1267,104
+193,(0,0,15,975),Read,OK,2975,101
+194,(0,0,10,41),Write,OK,41,101
+195,(0,1,0,900),Write,FAULT,Protection Violation: Cannot write to read-only page,3
+196,(0,2,0,984),Read,OK,1984,101
+197,(0,3,2,256),Read,OK,2256,103
+198,(0,1,14,350),Write,OK,350,101
+199,(0,2,13,587),Write,OK,1587,103
+200,(0,3,8,791),Read,OK,2791,101
+
+--- Stress Test Metrics ---
+Page Fault/Error Rate: 17%
+Average Translation Latency: 100.596
+Final Memory Utilization: 100%
